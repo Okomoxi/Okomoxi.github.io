@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: '联系', link: '/contact'}
 
 tagline: >
-  思想而不自由，毋宁死而。
+  思想而不自由，毋宁死耳。
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
