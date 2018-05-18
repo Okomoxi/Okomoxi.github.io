@@ -48,7 +48,7 @@ service_worker: true
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: rouge # or pygments or null
+highlighter: pygments
 # theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
