@@ -5,8 +5,9 @@ description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Okomoxi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "http://localhost:4000"
 
 # SEO PLUGIN
 social:
@@ -45,6 +46,8 @@ service_worker: true
 
 # BUILD SETTINGS
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge # or pygments or null
 # theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
@@ -61,8 +64,7 @@ exclude:
   - sleek.jpg
 
 include: ['_pages']
-permalink: /:title/
-
+permalink: none
 compress_html:
   clippings: all
 
