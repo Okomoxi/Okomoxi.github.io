@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      inkscape:window-height="706"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="18.196975"
+     inkscape:zoom="13.721667"
      inkscape:cx="31.113145"
      inkscape:cy="13.947779"
      inkscape:window-x="-8"
@@ -52,15 +52,15 @@
      transform="translate(-113.000000, -89.000000)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.05088997px;line-height:1.25;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';letter-spacing:0.44999999px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.23732626"
-       x="136.22775"
-       y="84.458015"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28504753px;line-height:1.25;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';letter-spacing:0.42140222px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15869331"
+       x="127.79802"
+       y="89.821213"
        id="text14"
-       transform="scale(0.82690211,1.209333)"><tspan
+       transform="scale(0.8869086,1.1275119)"><tspan
          sodipodi:role="line"
          id="tspan12"
-         x="136.22775"
-         y="84.458015"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.05088997px;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';letter-spacing:0.44999999px;stroke-width:1.23732626">Okomoxi</tspan></text>
+         x="127.79802"
+         y="89.821213"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28504753px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';letter-spacing:0.73043025px;stroke-width:1.15869331">Okomoxi</tspan></text>
   </g>
 </svg>
