@@ -1,10 +1,12 @@
+---
 layout: post
 title: 西汉郡国并行制及其演变（一）
 featured-img: history
 categories: blog
 tags: [history, notes, ]
-summary: 这是一篇个人实习过程中的信息经验总结，由于兴趣所限，文中的信息渠道主要是关于互联网方面的。我也会根据自己进一步的学习了解不断更新这个清单。
+summary: 秦朝废分封而行郡县，历二世而亡。随后，楚汉争霸，刘邦击败项羽建立汉朝，又重新实行分封，随后又历经文帝、景帝、武帝不断进行削藩，中央重新收权。那么这个过程究竟是怎样的呢？
 
+---
 <h1>西汉郡国并行制及其演变（一）</h1>
 
 <h2>一、背景及原因</h2>
@@ -23,7 +25,9 @@ summary: 这是一篇个人实习过程中的信息经验总结，由于兴趣�
 
 秦二世而亡，引起了当时人的深刻反思。许多人认为秦朝这么快灭亡的原因就在于用郡县而不行分封，形成了革秦之弊并行封建的社会舆论。这也是西汉郡国并行制实行的一项原因。
 
-<div align="center"><img src="https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/0b55b319ebc4b745b4d67993c4fc1e178b8215f1.jpg" style="zoom:40%"/></div>
+<div align="center">
+  <img src="https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/0b55b319ebc4b745b4d67993c4fc1e178b8215f1.jpg" width="508px" height="637px" />
+</div>
 
 <h2>二、实行分封</h2>
 
