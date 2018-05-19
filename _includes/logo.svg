@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      inkscape:window-height="706"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="18.196975"
-     inkscape:cx="25.973401"
+     inkscape:zoom="13.721667"
+     inkscape:cx="28.080726"
      inkscape:cy="11.514795"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -52,15 +52,15 @@
      transform="translate(-113.000000, -89.000000)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.35881519px;line-height:1.25;font-family:'Goudy Stout';-inkscape-font-specification:'Goudy Stout';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.71291769"
-       x="166.98434"
-       y="84.093773"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.41819191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.62986875"
+       x="158.91324"
+       y="87.910545"
        id="text14"
-       transform="scale(0.81814615,1.2222755)"><tspan
+       transform="scale(0.8618726,1.1602643)"><tspan
          sodipodi:role="line"
          id="tspan12"
-         x="166.98434"
-         y="84.093773"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.35881519px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:1.71291769">Okomoxi</tspan></text>
+         x="158.91324"
+         y="87.910545"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.41819191px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1.62986875">Okomoxi</tspan></text>
   </g>
 </svg>
