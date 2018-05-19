@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:window-height="706"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="13.721667"
-     inkscape:cx="28.080726"
-     inkscape:cy="11.514795"
+     inkscape:zoom="18.196975"
+     inkscape:cx="31.113145"
+     inkscape:cy="13.947779"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -52,15 +52,15 @@
      transform="translate(-113.000000, -89.000000)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.41819191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.62986875"
-       x="158.91324"
-       y="87.910545"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.05088997px;line-height:1.25;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';letter-spacing:0.44999999px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.23732626"
+       x="136.22775"
+       y="84.458015"
        id="text14"
-       transform="scale(0.8618726,1.1602643)"><tspan
+       transform="scale(0.82690211,1.209333)"><tspan
          sodipodi:role="line"
          id="tspan12"
-         x="158.91324"
-         y="87.910545"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.41819191px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1.62986875">Okomoxi</tspan></text>
+         x="136.22775"
+         y="84.458015"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.05088997px;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';letter-spacing:0.44999999px;stroke-width:1.23732626">Okomoxi</tspan></text>
   </g>
 </svg>
