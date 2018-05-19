@@ -26,7 +26,7 @@ summary: 秦朝废分封而行郡县，历二世而亡。随后，楚汉争霸�
 秦二世而亡，引起了当时人的深刻反思。许多人认为秦朝这么快灭亡的原因就在于用郡县而不行分封，形成了革秦之弊并行封建的社会舆论。这也是西汉郡国并行制实行的一项原因。
 
 <div align="center">
-  <img src="https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/0b55b319ebc4b745b4d67993c4fc1e178b8215f1.jpg" width="508px" height="637px" />
+  <img src="https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/0b55b319ebc4b745b4d67993c4fc1e178b8215f1.jpg" width="508px" height="637px" title="贾谊"/>
 </div>
 
 <h2>二、实行分封</h2>
